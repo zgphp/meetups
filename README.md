@@ -3,22 +3,40 @@
 # ZgPHP meetups
 
 This repository contains information about upcoming and past ZgPHP meetups. 
-Use this repo to submit talks ideas, requests for hosting ZgPHP meetup and planning organisation of meetups.
+Use this repo to submit talks ideas, requests for hosting ZgPHP meetup and planning organization of meetups.
 
-## Venues
+## Quickstart
 
-We love to organize meetups at different companies. To ensurre fairness and transparency, applications for
-hosting our meetups will be handled through pull requests in this repository.
+- Read (code-of-conduct.md)[our code of conduct]
+- See upcoming events at our (meetup.com page)[https://www.meetup.com/ZgPHP-meetup]
 
-If you want to host ZgPHP at your company, create a pull request with one markdown 
-file targeting meetup directory that represents the meetup (i.e. the month) you're interested
-in talking at. For example, If you want to give a talk on **ZgPHP Meetup in July, 2020.**, 
-create PR with `foo-company.md` file in `meetups/2020/07` directory.
+## Get involved!
 
-First PR has priority over others, so make sure to create PR as soon as you decide to host a meetup and book your slot.
+### Host ZgPHP at your venue
 
-We don't have strict rules and limits on hosting our meetups, the more the merier. 
-However, we'll be fair and allow everyone interested to host a meetup.
+We love to organize meetups at different venues, such as companies and coworking spaces. 
+In the past, we had a lot of requests for hosting our meetups and we're happy to have your support. 
+Since many of our supporters were interested to host our meetup, we introduced a small system of booking slots for hosting
+our meetups to ensure fairness and transparency. 
+We don't want to put any company or organization before another, so we're allowing everyone to apply for hosting. 
+Applications for hosting our meetups will be handled through pull requests in this repository.
+
+If you want to host ZgPHP meetup at your company, create a pull request with one markdown file targeting meetup directory that represents the meetup (i.e. the month) you're interested
+in talking at. 
+
+For example, If you want to host **ZgPHP Meetup in July 2020.** create a pull request with `your-company-name.md` file in `meetups/2020/07` directory with the following content:
+
+```
+My Company name wants to host ZgPHP in July 2020
+Contact person: John Doe (john.doe@company.com)
+Capacity: 50 persons
+```
+
+and we will reach out to arrange the details. Note that pull request created earlier have priority over others created later, so make sure to create PR as soon as you decide to host a meetup and book your slot.
+
+We don't have strict rules and limits on hosting our meetups, the more the merrier, however, we'll be fair and allow everyone interested to host a meetup.
+
+You can consider your request approved once we contact you and confirm everything.
 
 ## Talks
 

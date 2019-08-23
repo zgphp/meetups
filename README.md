@@ -7,8 +7,8 @@ Use this repo to submit talks ideas, requests for hosting ZgPHP meetup and plann
 
 ## Quickstart
 
-- Read (code-of-conduct.md)[our code of conduct]
-- See upcoming events at our (meetup.com page)[https://www.meetup.com/ZgPHP-meetup]
+- Read our [code-of-conduct.md](our code of conduct)
+- See upcoming events at our [meetup.com page](https://www.meetup.com/ZgPHP-meetup)
 
 ## Get involved!
 

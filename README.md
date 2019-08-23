@@ -1,3 +1,5 @@
+![](https://2019.webcampzg.org/media/uploads/usergroups/zgphp.svg)
+
 # ZgPHP meetups
 
 This repository contains information about upcoming and past ZgPHP meetups. 
@@ -22,6 +24,6 @@ However, we'll be fair and allow everyone interested to host a meetup.
 
 Todo
 
-
-
 ## Organisers
+
+Todo

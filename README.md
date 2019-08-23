@@ -22,7 +22,7 @@ However, we'll be fair and allow everyone interested to host a meetup.
 
 ## Talks
 
-Todo
+Please use [this repo](https://github.com/zgphp/zgphp-meetup-talks) for submitting your talks 
 
 ## Organisers
 

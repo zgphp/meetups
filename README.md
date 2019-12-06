@@ -45,10 +45,11 @@ We don't have strict rules and limits on hosting our meetups, the more the merri
 
 You can consider your request approved once we contact you and confirm everything.
 
+### Past venues
+
+* 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
+* 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
+
 ## Talks
 
 Please use [this repo](https://github.com/zgphp/zgphp-meetup-talks) for submitting your talks 
-
-## Organisers
-
-Todo

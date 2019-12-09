@@ -50,6 +50,22 @@ You can consider your request approved once we contact you and confirm everythin
 * 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
 * 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
 
+### Future venues
+
+* 2019/12 - Bornfight - 100th meetup
+* 2020/01 - [Q](venues/2020/01/q.md)
+* 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
+* 2020/03 - empty slot
+* 2020/04 - empty slot
+* 2020/05 - empty slot
+* 2020/06 - [Q](venues/2020/06/q.md)
+* 2020/07 - Summer time, no meetups, just drinkups :)
+* 2020/08 - Same here
+* 2020/09 - empty slot
+* 2020/10 - empty slot
+* 2020/11 - empty slot
+* 2020/12 - TBA
+
 ## Talks
 
 Please use [this repo](https://github.com/zgphp/zgphp-meetup-talks) for submitting your talks 

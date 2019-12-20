@@ -49,10 +49,10 @@ You can consider your request approved once we contact you and confirm everythin
 
 * 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
 * 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
+* 2019/12 - Bornfight - 100th meetup
 
 ### Future venues
 
-* 2019/12 - Bornfight - 100th meetup
 * 2020/01 - [Q](venues/2020/01/q.md)
 * 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
 * 2020/03 - [Netgen](venues/2020/03/netgen.md)

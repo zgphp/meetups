@@ -56,13 +56,13 @@ You can consider your request approved once we contact you and confirm everythin
 * 2020/01 - [Q](venues/2020/01/q.md)
 * 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
 * 2020/03 - [Netgen](venues/2020/03/netgen.md)
-* 2020/04 - empty slot
+* 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
 * 2020/05 - empty slot
 * 2020/06 - [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here
 * 2020/09 - empty slot
-* 2020/10 - empty slot
+* 2020/10 - [Trikoder](venues/2020/10/trikoder.md)
 * 2020/11 - empty slot
 * 2020/12 - TBA
 

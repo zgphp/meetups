@@ -50,13 +50,15 @@ You can consider your request approved once we contact you and confirm everythin
 * 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
 * 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
 * 2019/12 - Bornfight - 100th meetup
+* 2020/01 - [Q](venues/2020/01/q.md)
 
 ### Future venues
 
-* 2020/01 - [Q](venues/2020/01/q.md)
 * 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
+    * Vilim Stubičan - [You should ditch your framework](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/02/vilim-stubican--you-should-ditch-your-framework)
 * 2020/03 - [Netgen](venues/2020/03/netgen.md)
 * 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
+    * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
 * 2020/05 - empty slot
 * 2020/06 - [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)

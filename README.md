@@ -57,6 +57,7 @@ You can consider your request approved once we contact you and confirm everythin
 * 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
     * Vilim Stubičan - [You should ditch your framework](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/02/vilim-stubican--you-should-ditch-your-framework)
 * 2020/03 - [Netgen](venues/2020/03/netgen.md)
+    * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
 * 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
 * 2020/05 - empty slot

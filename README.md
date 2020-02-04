@@ -61,7 +61,7 @@ You can consider your request approved once we contact you and confirm everythin
 * 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
     * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)
-* 2020/05 - empty slot
+* 2020/05 - [Human](venues/2020/05/human.md)
 * 2020/06 - [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here

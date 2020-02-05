@@ -58,6 +58,7 @@ You can consider your request approved once we contact you and confirm everythin
     * Vilim Stubičan - [You should ditch your framework](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/02/vilim-stubican--you-should-ditch-your-framework)
 * 2020/03 - [Netgen](venues/2020/03/netgen.md)
     * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
+    * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
 * 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
     * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)

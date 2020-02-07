@@ -71,7 +71,8 @@ You can consider your request approved once we contact you and confirm everythin
 * 2020/06 - [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here
-* 2020/09 - empty slot
+* 2020/09 - [Netgen](venues/2020/09/netgen.md)
+    * Mario Blažek - [A Journey Through HTTP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/09/mario-blazek--a-journey-through-http.md)
 * 2020/10 - [Trikoder](venues/2020/10/trikoder.md)
 * 2020/11 - empty slot
 * 2020/12 - TBA

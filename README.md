@@ -53,9 +53,14 @@ You can consider your request approved once we contact you and confirm everythin
 ### Past venues
 
 * 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
+    * Marijan Šuflaj - [Decorators in PHP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/10/marijan-suflaj--decorators-in-php.md)
 * 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
+    * Ante Crnogorac - [Deploy like there's no friday](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/11/ante-crnogorac--deploy-like-theres-no-friday.md)
+    * Josip Stuhli - [Scaling: from 0 to 20 million](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/11/josip-stuhli--scaling-0-to-20-million.md)
 * 2019/12 - Bornfight - 100th meetup
 * 2020/01 - [Q](venues/2020/01/q.md)
+    * Anka Bajurin Stiskalov - [Sell Behat tests to your boss or clients](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/01/anka-bajurin-stiskalov--sell-behat-tests-to-your-boss-or-clients.md)
+    * Ivan Herak - [Strangler pattern basics](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/01/ivan-herak--strangler-pattern-basics.md)
 
 ### Future venues
 

@@ -52,36 +52,36 @@ You can consider your request approved once we contact you and confirm everythin
 
 ### Past venues
 
-* 2019/10 - [FOREO Adria](venues/2019/10/foreo.md)
+* 2019/10 - #98 [FOREO Adria](venues/2019/10/foreo.md)
     * Marijan Šuflaj - [Decorators in PHP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/10/marijan-suflaj--decorators-in-php.md)
-* 2019/11 - [SofaScore](venues/2019/11/sofascore.md)
+* 2019/11 - #99 [SofaScore](venues/2019/11/sofascore.md)
     * Ante Crnogorac - [Deploy like there's no friday](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/11/ante-crnogorac--deploy-like-theres-no-friday.md)
     * Josip Stuhli - [Scaling: from 0 to 20 million](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2019/11/josip-stuhli--scaling-0-to-20-million.md)
-* 2019/12 - Bornfight - 100th meetup
-* 2020/01 - [Q](venues/2020/01/q.md)
+* 2019/12 - #100 Bornfight - 100th meetup
+* 2020/01 - #101 [Q](venues/2020/01/q.md)
     * Anka Bajurin Stiskalov - [Sell Behat tests to your boss or clients](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/01/anka-bajurin-stiskalov--sell-behat-tests-to-your-boss-or-clients.md)
     * Ivan Herak - [Strangler pattern basics](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/01/ivan-herak--strangler-pattern-basics.md)
 
 ### Future venues
 
-* 2020/02 - [Typeqast](venues/2020/02/typeqast.md)
+* 2020/02 - #102 [Typeqast](venues/2020/02/typeqast.md)
     * Vilim Stubičan - [You should ditch your framework](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/02/vilim-stubican--you-should-ditch-your-framework.md)
     * Zoran Antolovic - [Rethinking the API development](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/02/zoran-antolovic--rethinking-the-api-development.md)
-* 2020/03 - [Netgen](venues/2020/03/netgen.md)
+* 2020/03 - #103 [Netgen](venues/2020/03/netgen.md)
     * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
     * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
-* 2020/04 - [Trikoder](venues/2020/04/trikoder.md)
+* 2020/04 - #104 [Trikoder](venues/2020/04/trikoder.md)
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
     * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)
-* 2020/05 - [Human](venues/2020/05/human.md)
-* 2020/06 - [Q](venues/2020/06/q.md)
+* 2020/05 - #105 [Human](venues/2020/05/human.md)
+* 2020/06 - #106 [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here
-* 2020/09 - [Netgen](venues/2020/09/netgen.md)
+* 2020/09 - #109 [Netgen](venues/2020/09/netgen.md)
     * Mario Blažek - [A Journey Through HTTP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/09/mario-blazek--a-journey-through-http.md)
-* 2020/10 - [Trikoder](venues/2020/10/trikoder.md)
-* 2020/11 - empty slot
-* 2020/12 - TBA
+* 2020/10 - #110 [Trikoder](venues/2020/10/trikoder.md)
+* 2020/11 - #111 empty slot
+* 2020/12 - #112 TBA
 
 ## Talks
 

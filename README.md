@@ -74,6 +74,7 @@ You can consider your request approved once we contact you and confirm everythin
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
     * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)
 * 2020/05 - #105 [Human](venues/2020/05/human.md)
+    * Vedran "Brko" Krizek - [Acceptance criteria 101](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/vedran-krizek--acceptance-criteria-101.md)
 * 2020/06 - #106 [Q](venues/2020/06/q.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here

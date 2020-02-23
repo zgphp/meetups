@@ -76,6 +76,7 @@ You can consider your request approved once we contact you and confirm everythin
 * 2020/05 - #105 [Human](venues/2020/05/human.md)
     * Vedran "Brko" Krizek - [Acceptance criteria 101](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/vedran-krizek--acceptance-criteria-101.md)
 * 2020/06 - #106 [Q](venues/2020/06/q.md)
+    * Zvonimir Spajic - [Get, set.. STOP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/zvonimir-spajic-get-set-stop.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here
 * 2020/09 - #109 [Netgen](venues/2020/09/netgen.md)

@@ -67,7 +67,7 @@ You can consider your request approved once we contact you and confirm everythin
 
 ### Future venues
 
-* ~~ 2020/03 - #103 [Netgen](venues/2020/03/netgen.md) ~~ - CANCELLED
+* ~~2020/03 - #103 [Netgen](venues/2020/03/netgen.md)~~ - CANCELLED
     * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
     * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
 * 2020/04 - #104 [Trikoder](venues/2020/04/trikoder.md)

@@ -7,7 +7,7 @@
 
 # ZgPHP meetups
 
-This repository contains information about upcoming and past ZgPHP meetups. 
+This repository contains information about upcoming and past ZgPHP meetups.
 Use this repo to submit talks ideas, requests for hosting ZgPHP meetup and planning organization of meetups.
 
 ## Quickstart
@@ -19,11 +19,11 @@ Use this repo to submit talks ideas, requests for hosting ZgPHP meetup and plann
 
 ### Host ZgPHP at your venue
 
-We love to organize meetups at different venues, such as companies and coworking spaces. 
-In the past, we had a lot of requests for hosting our meetups and we're happy to have your support. 
+We love to organize meetups at different venues, such as companies and coworking spaces.
+In the past, we had a lot of requests for hosting our meetups and we're happy to have your support.
 Since many of our supporters were interested to host our meetup, we introduced a small system of booking slots for hosting
-our meetups to ensure fairness and transparency. 
-We don't want to put any company or organization before another, so we're allowing everyone to apply for hosting. 
+our meetups to ensure fairness and transparency.
+We don't want to put any company or organization before another, so we're allowing everyone to apply for hosting.
 Applications for hosting our meetups will be handled through pull requests in this repository.
 
 #### Steps
@@ -34,7 +34,7 @@ Applications for hosting our meetups will be handled through pull requests in th
 #### Creating a PR / applying for hosting
 
 If you want to host ZgPHP meetup at your company, create a pull request with one markdown file targeting meetup directory that represents the meetup (i.e. the month) you're interested
-in talking at. 
+in talking at.
 
 For example, If you want to host **ZgPHP Meetup in July 2020.** create a pull request with `your-company-name.md` file in `venues/2020/07` directory with the following content:
 
@@ -70,12 +70,12 @@ You can consider your request approved once we contact you and confirm everythin
 * ~~2020/03 - #103 [Netgen](venues/2020/03/netgen.md)~~ - CANCELLED
     * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
     * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
-* 2020/04 - #104 [Trikoder](venues/2020/04/trikoder.md)
+* ~~2020/04 - #104 [Trikoder](venues/2020/04/trikoder.md)~~ - CANCELLED
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
     * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)
-* 2020/05 - #105 [Human](venues/2020/05/human.md)
+* ~~2020/05 - #105 [Human](venues/2020/05/human.md)~~ - CANCELLED
     * Vedran "Brko" Krizek - [Acceptance criteria 101](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/vedran-krizek--acceptance-criteria-101.md)
-* 2020/06 - #106 [Q](venues/2020/06/q.md)
+* ~~2020/06 - #106 [Q](venues/2020/06/q.md)~~ - CANCELLED
     * Zvonimir Spajic - [Get, set.. STOP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/zvonimir-spajic-get-set-stop.md)
 * 2020/07 - Summer time, no meetups, just drinkups :)
 * 2020/08 - Same here
@@ -87,4 +87,4 @@ You can consider your request approved once we contact you and confirm everythin
 
 ## Talks
 
-Please use [this repo](https://github.com/zgphp/zgphp-meetup-talks) for submitting your talks 
+Please use [this repo](https://github.com/zgphp/zgphp-meetup-talks) for submitting your talks

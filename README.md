@@ -67,18 +67,25 @@ You can consider your request approved once we contact you and confirm everythin
 * ~~2020/03 - #103 [Netgen](venues/2020/03/netgen.md)~~ - CANCELLED
     * Borna Matijanic - [Fun with Symfony Console](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/borna-matijanic--fun-with-symfony-console.md)
     * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
-* ~~2020/04 - #104 [Trikoder](venues/2020/04/trikoder.md)~~ - CANCELLED
+
+Due to the outbreak of COVID-19, we switched to an online meetup format.
+
+* 2020/04 - #104 - online
     * Zvonimir Spajic - [Hexagonal Architecture Demystified](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/zvonimir-spajic-hexagonal-architecture-demystified.md)
-    * Miro Svrtan - [Tools and traits to keep your code at level](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/04/miro-svrtan--tools-and-traits-to-keep-your-code-at-level.md)
+    * Andreas Braun - [Dropping ACID - Schema Design for e-commerce](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/03/andreas-braun--schema-design-for-e-commerce.md)
+* 2020/05 - #105 - online
+	 * Tobias Nyholm: - [Queues, busses and the Messenger Component](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/queues-busses-messenger-component.md)
+    * Vedran "Brko" Krizek - [Acceptance criteria 101](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/vedran-krizek--acceptance-criteria-101.md)
+
 
 ### Future venues
 
-* ~~2020/05 - #105 [Human](venues/2020/05/human.md)~~ - CANCELLED
-    * Vedran "Brko" Krizek - [Acceptance criteria 101](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/05/vedran-krizek--acceptance-criteria-101.md)
-* ~~2020/06 - #106 [Q](venues/2020/06/q.md)~~ - CANCELLED
-    * Zvonimir Spajic - [Get, set.. STOP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/zvonimir-spajic-get-set-stop.md)
-* 2020/07 - Summer time, no meetups, just drinkups :)
-* 2020/08 - Same here
+* 2020/06 - #106 - online
+    * Nick Tune - [Domain-Driven Design Techniques For Everyone](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/nick-tune-ddd.md)
+    * Pim Elshoff - [Final Class Aggregate]()
+* 2020/07 - #107 - online
+	* Zvonimir Spajic - [Get, set.. STOP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/zvonimir-spajic-get-set-stop.md)
+* 2020/08 - #107 - online
 * 2020/09 - #109 [Netgen](venues/2020/09/netgen.md)
     * Mario Blažek - [A Journey Through HTTP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/09/mario-blazek--a-journey-through-http.md)
 * 2020/10 - #110 [Trikoder](venues/2020/10/trikoder.md)

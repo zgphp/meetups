@@ -82,8 +82,9 @@ Due to the outbreak of COVID-19, we switched to an online meetup format.
 
 * 2020/06 - #106 - online
     * Nick Tune - [Domain-Driven Design Techniques For Everyone](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/nick-tune-ddd.md)
-    * Pim Elshoff - [Final Class Aggregate]()
+    * Pim Elshoff - [Final Class Aggregate](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/Pim%20Elshoff%20-%20Final%20Class%20Aggregate.md)
 * 2020/07 - #107 - online
+	* Erika Heidi - [PHP Development Environments with Docker Composer](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/07/erika-heidi--php-development-environments-with-docker-compose.md)
 	* Zvonimir Spajic - [Get, set.. STOP](https://github.com/zgphp/zgphp-meetup-talks/blob/master/meetups/2020/06/zvonimir-spajic-get-set-stop.md)
 * 2020/08 - #107 - online
 * 2020/09 - #109 [Netgen](venues/2020/09/netgen.md)
